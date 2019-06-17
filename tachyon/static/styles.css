@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_red_1920x1234.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}

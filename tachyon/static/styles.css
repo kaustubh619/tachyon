@@ -11,4 +11,12 @@ body {
   left: 0;
   bottom: 0;
   width: 100%;
+  text-align: center;
+}
+
+.start {
+  margin-top: 12%;
+  text-align: center;
+  margin-left: 34%;
+  width: 32%;
 }
